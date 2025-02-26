@@ -24,8 +24,8 @@
     <img src="https://komarev.com/ghpvc/?username=Corxo91&color=0E9C47&style=for-the-badge"/>
 </p>
 
-
-<samp>Con esta tipografia el about me</samp>
+**Personal Appointment**
+<samp  width="50%">All successful people were dreamers in the beginning. The driving force behind everything is dreaming and never giving up.</samp>
 
 
 ## Skills
@@ -37,9 +37,7 @@ Domain Knownledge        | ![Computer Science Development Badge](https://img.shi
 
 ## Analytics
 
-| GitHub Stats | Personal Appointment |
-| ------------- | ----------- |
-|<img alt="Marcos Santana github stats" src="https://github-readme-stats.vercel.app/api?username=Corxo91&show_icons=true&hide_border=true&theme=tokyonight&image_size=auto" width="200%"/>|<samp  width="50%">All successful people were dreamers in the beginning. The driving force behind everything is dreaming and never giving up.</samp>|
+<img alt="Marcos Santana github stats" src="https://github-readme-stats.vercel.app/api?username=Corxo91&show_icons=true&hide_border=true&theme=tokyonight&image_size=auto" width="200%"/>
 
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
