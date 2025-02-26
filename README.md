@@ -1,7 +1,7 @@
 <div align="center"> 
   <h1 align="center"> Hi there, I am Marcos Santana 👋 </h1>
 </div>
-<img src="https://github.com/Corxo91/Corxo91/blob/main/Agregar%20un%20subt%C3%ADtulo.png" width="100%">
+<img src="https://github.com/Corxo91/Corxo91/blob/main/Agregar%20un%20subt%C3%ADtulo.png" margin="0 auto">
 
 ## Skills
 Property                 | Data  
