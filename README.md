@@ -21,6 +21,9 @@
 ![followers](https://img.shields.io/github/followers/Corxo91?style=social)
 ![stars](https://img.shields.io/github/stars/Corxo91?style=social)
 
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Corxo91}/count.svg" alt="Corxo91 :: Visitor's Count" /></p>
+<br/>
 
 
 ## Skills
