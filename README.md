@@ -37,7 +37,7 @@ Domain Knownledge        | ![Computer Science Development Badge](https://img.shi
 
 ## Analytics
 
-| GitHub Stats | Star History |
+| GitHub Stats |  |
 | ------------- | ----------- |
 |<img alt="Marcos Santana github stats" src="https://github-readme-stats.vercel.app/api?username=Corxo91&show_icons=true&hide_border=true&theme=tokyonight&image_size=auto" width="200%"/>||
 
