@@ -25,6 +25,8 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Corxo91}/count.svg" alt="Corxo91 :: Visitor's Count" /></p>
 <br/>
 
+<samp>Con esta tipografia el about me</samp>
+
 
 ## Skills
 Property                 | Data  
