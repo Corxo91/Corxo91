@@ -10,7 +10,7 @@
  <h1 align="center">
   <img src="https://img.shields.io/badge/-ZorinOs-15A6F0?style=flat&logo=zorin&logoColor=white" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+  <img src="https://img.shields.io/badge/-AndroidOs-34A853?style=flat&logo=android&logoColor=white" alt="Star Badge"/>
 </h1>
 
 
