@@ -13,11 +13,11 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </h1>
 
-![followers](https://img.shields.io/github/followers/Corxo91?style=social)
-![stars](https://img.shields.io/github/stars/Corxo91?style=social)
+
 
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
-<h2 align="left" font-weight="bold">About me</h2>  
+<h2 align="left" font-weight="bold">About me ![followers](https://img.shields.io/github/followers/Corxo91?style=social)
+![stars](https://img.shields.io/github/stars/Corxo91?style=social)</h2>  
 <br><br>
 
 
