@@ -18,14 +18,17 @@
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2 align="left" font-weight="bold">About me</h2> 
 
+**Personal Appointment**
+<br>
+<samp  width="50%">All successful people were dreamers in the beginning. The driving force behind everything is dreaming and never giving up.</samp>
+
+
 <p align="center">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Corxo91"/>
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Corxo91?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
     <img src="https://komarev.com/ghpvc/?username=Corxo91&color=0E9C47&style=for-the-badge"/>
 </p>
 
-**Personal Appointment**
-<samp  width="50%">All successful people were dreamers in the beginning. The driving force behind everything is dreaming and never giving up.</samp>
 
 
 ## Skills
