@@ -36,10 +36,11 @@ Tool / Framework         | ![Electron Badge](https://img.shields.io/badge/-NestJ
 Domain Knownledge        | ![Computer Science Development Badge](https://img.shields.io/badge/-Ingeniery%20Cibersegurity-FAB040?style=flat&logoColor=white) ![Software Development Badge](https://img.shields.io/badge/-Software%20Ingeniery-FF6600?style=flat&logoColor=white) ![Web Crawling Badge](https://img.shields.io/badge/-Web%20Development-036CB5?style=flat&logoColor=white) 
 
 ## Analytics
-<a href="https://github.com/Corxo91/github-readme-stats">
-   <img width="50%" alt="Marcos Santana github stats" src="https://github-readme-stats.vercel.app/api?username=Corxo91&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img width="50%" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />
-</a>
+
+| GitHub Stats | Star History |
+| ----------- | ----------- |
+|<img width="50%" alt="Marcos Santana github stats" src="https://github-readme-stats.vercel.app/api?username=Corxo91&show_icons=true&hide_border=true&theme=tokyonight" />|<img width="50%" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
