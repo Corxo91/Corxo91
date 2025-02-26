@@ -8,7 +8,6 @@
 
 <p align='center'>
  <h1 align="center">
-   
   <img src="https://img.shields.io/badge/-ZorinOs-15A6F0?style=flat&logo=zorin&logoColor=white" alt="Awesome Badge"/>
   <a href="mailto:marcosjaviersantana300302@gmail.com"><img src="https://img.shields.io/badge/-ContactUs-EA4335?style=flat&logo=gmail&logoColor=white" alt="website"/></a>
   <img src="https://img.shields.io/badge/-AndroidOs-34A853?style=flat&logo=android&logoColor=white" alt="Star Badge"/>
@@ -22,8 +21,10 @@
 <p align="center">
   <a href="https://github.com/Corxo91?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/trinib"/></a><a href="https://github.com/trinib?tab=followers"><a href="https://github.com/trinib?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Corxo91?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Corxo91&color=0E9C47&style=for-the-badge"
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Corxo91?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+    <img src="https://komarev.com/ghpvc/?username=Corxo91&color=0E9C47&style=for-the-badge"/>
+    </a>
+</p>
 
 
 <samp>Con esta tipografia el about me</samp>
