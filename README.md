@@ -39,7 +39,7 @@ Domain Knownledge        | ![Computer Science Development Badge](https://img.shi
 
 | GitHub Stats | Star History |
 | ----------- | ----------- |
-|<img alt="Marcos Santana github stats" src="https://github-readme-stats.vercel.app/api?username=Corxo91&show_icons=true&hide_border=true&theme=tokyonight&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
+|<img alt="Marcos Santana github stats" src="https://github-readme-stats.vercel.app/api?username=Corxo91&show_icons=true&hide_border=true&theme=tokyonight&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=50" />|
 
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
