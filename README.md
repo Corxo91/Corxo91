@@ -13,7 +13,7 @@ Domain Knownledge        | ![Computer Science Development Badge](https://img.shi
 
 ## Analytics
 <a href="https://github.com/Corxo91/github-readme-stats">
-   <img width="80%" alt="Marcos Santana github stats" src="https://github-readme-stats.vercel.app/api?username=Corxo91&show_icons=true&hide_border=true&color=dark" />
+   <img width="80%" alt="Marcos Santana github stats" src="https://github-readme-stats.vercel.app/api?username=Corxo91&show_icons=true&hide_border=true&style=dark" />
 </a>
 
 
