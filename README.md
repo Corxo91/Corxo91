@@ -40,18 +40,14 @@ Domain Knownledge        | ![Computer Science Development Badge](https://img.shi
    <img width="100%" alt="Marcos Santana github stats" src="https://github-readme-stats.vercel.app/api?username=Corxo91&show_icons=true&hide_border=true&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
+  </a>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+-----
+<samp> Credits: [Yogesh](https://github.com/Corxo91) </samp>
 
-<samp>I'm a Night 🦉</samp>
-
-```text
-🌞 Morning                45 commits          ████░░░░░░░░░░░░░░░░░░░░░   87 % 
-🌆 Daytime                76 commits          ███████░░░░░░░░░░░░░░░░░░   28.15 % 
-🌃 Evening                119 commits         ███████████░░░░░░░░░░░░░░   44.07 % 
-🌙 Night                  30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-```
-
+<samp> Last Edited on: 26/02/2025 </samp>
 
 
 
