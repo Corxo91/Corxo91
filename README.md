@@ -41,5 +41,17 @@ Domain Knownledge        | ![Computer Science Development Badge](https://img.shi
 </a>
 
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                45 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌆 Daytime                76 commits          ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+🌃 Evening                119 commits         ███████████░░░░░░░░░░░░░░   44.07 % 
+🌙 Night                  30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
 
 
