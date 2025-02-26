@@ -12,7 +12,7 @@ Tool / Framework         | ![Electron Badge](https://img.shields.io/badge/-NestJ
 Domain Knownledge        | ![Computer Science Development Badge](https://img.shields.io/badge/-Ingeniery%20Cibersegurity-FAB040?style=flat&logoColor=white) ![Software Development Badge](https://img.shields.io/badge/-Software%20Ingeniery-FF6600?style=flat&logoColor=white) ![Web Crawling Badge](https://img.shields.io/badge/-Web%20Development-036CB5?style=flat&logoColor=white) 
 
 ## Analytics
-<a href="https://github.com/Corxo91/github-readme-stats">
+<a href="https://github.com/Corxo91/github-readme-stats" width="100%" align="center">
    <img width="50%" align="center" alt="Marcos Santana github stats" src="https://github-readme-stats.vercel.app/api?username=Corxo91&show_icons=true&hide_border=true&theme=tokyonight" />
 </a>
 
