@@ -1,7 +1,7 @@
 <div align="center"> 
   <h1 align="center"> Hi there, I am Marcos Santana 👋 </h1>
 </div>
-<div display="flex" width="100%" justify-content="center">
+<div display="flex" width="100%" style="justify-content="center">
 <img src="https://github.com/Corxo91/Corxo91/blob/main/Agregar%20un%20subt%C3%ADtulo.png" > 
 </div>
 
