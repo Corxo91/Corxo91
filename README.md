@@ -1,4 +1,4 @@
-## Hi there, I am Marcos Santana 👋
+## <div style="aligin:center">Hi there, I am Marcos Santana 👋</div>
 
 ## Skills
 Property                 | Data  
