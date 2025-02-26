@@ -45,7 +45,7 @@ Domain Knownledge        | ![Computer Science Development Badge](https://img.shi
   </a>
 
 -----
-<samp> Credits: [Yogesh](https://github.com/Corxo91) </samp>
+<samp> Credits: [Marcos Santana](https://github.com/Corxo91) </samp>
 
 <samp> Last Edited on: 26/02/2025 </samp>
 
