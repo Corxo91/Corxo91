@@ -37,9 +37,9 @@ Domain Knownledge        | ![Computer Science Development Badge](https://img.shi
 
 ## Analytics
 
-| GitHub Stats |  |
+| GitHub Stats | Frase Personal |
 | ------------- | ----------- |
-|<img alt="Marcos Santana github stats" src="https://github-readme-stats.vercel.app/api?username=Corxo91&show_icons=true&hide_border=true&theme=tokyonight&image_size=auto" width="200%"/>||
+|<img alt="Marcos Santana github stats" src="https://github-readme-stats.vercel.app/api?username=Corxo91&show_icons=true&hide_border=true&theme=tokyonight&image_size=auto" width="200%"/>|<samp>Todas las personas  triunfadoras, en sus inicios eran soñadoras. El motor de todo esta en soñar y no rendirse nuna.</samp>|
 
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
